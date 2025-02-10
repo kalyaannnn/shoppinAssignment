@@ -216,7 +216,7 @@ CRAFT, as outlined in this research paper, provides a framework for dynamic tool
 ---
 
 ### Conclusion
-While **ReAct** and **ReST** offer valuable frameworks, they each have limitations that hinder performance in the context of a virtual shopping assistant. **CRAFT** addresses these pitfalls through **dynamic tool creation**, **secure execution**, **scalable generalization**, and **robust validation**, empowering the assistant to deliver accurate, coherent, and personalized responses.
+While **ReAct** and **ReAct + Self Critique** offer valuable frameworks, they each have limitations that hinder performance in the context of a virtual shopping assistant. **CRAFT** addresses these pitfalls through **dynamic tool creation**, **secure execution**, **scalable generalization**, and **robust validation**, empowering the assistant to deliver accurate, coherent, and personalized responses.
 
 ---
 
